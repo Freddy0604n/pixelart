@@ -1,1 +1,1 @@
-C:\Users\frank\Desktop\Code\rust\pixelart\target\debug\pixelart_minifb.exe: C:\Users\frank\Desktop\Code\rust\pixelart\src\main.rs
+C:\Users\Frank\Desktop\Code\Rust\pixelart\target\debug\pixelart_minifb.exe: C:\Users\Frank\Desktop\Code\Rust\pixelart\src\main.rs
